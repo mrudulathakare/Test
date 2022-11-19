@@ -252,18 +252,7 @@ public class Mrudula
 	    double chg1=0,chg2=0,chg3=0;
 	    
 		
-		System.out.println("*************************************************************");
-		System.out.println("WELCOME TO RIDE-SHARING CHARGES ESTIMATOR & COMPARISON SYSTEM");
-		System.out.println();
-		System.out.println("Developed by Karan Nadkarni , 1132220155");
-		System.out.println("OODP101 Object Oriented Design & Programming");
 		
-		SimpleDateFormat dateTimeInGMT = new SimpleDateFormat("yyyy-MMM-dd hh:mm:ss aa");
-	    dateTimeInGMT.setTimeZone(TimeZone.getTimeZone("GMT"));
-	    System.out.println(dateTimeInGMT.format(new Date()));
-	    
-	    System.out.println();
-		System.out.println("*************************************************************");
 		
 		
         System.out.print("1.Enter Usage Details \n");
